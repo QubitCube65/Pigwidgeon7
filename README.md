@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Pigwidgeon7
-- 👀 I’m interested in coding, 60s/70s beat/rock music and "point and click adventures"
-- 🌱 I’m currently learning DrRacket (for university), Python, Java, HTML...
-- 📫 How to reach me instagram: @pigwidgeon7
+- 👋 Hi, I’m Amelie 
+- 👀 I’m interested in coding, 60s/70s beat/rock music, popular science books and old video games
+- 🌱 I’m currently learning: a lot...
+- 📫 How to reach me: i'd love to receive an real, personal letter! (otherwise send a (carrier pigeon?) mail: amelie.kannewitz@gmail.com
 
 <!---
 Pigwidgeon7/Pigwidgeon7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
